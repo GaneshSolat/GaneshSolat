@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ganesh Bhaurao Solat</h1>
 <h3 align="center">I Am Coading Enthusiast.</h3>
-<img align="right" width=300 alt="coding" src="D:\imgjava">
+<img align="right" width=300 alt="coding" src="[D:\imgjava](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjayed87&psig=AOvVaw34RCbzuYuFxOQyTUgUOu8G&ust=1693978731869000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjN-NPgkoEDFQAAAAAdAAAAABAJ)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsolat&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsolat" /> </p>
 
 - 🌱 I’m currently learning **Java , Web Development**
